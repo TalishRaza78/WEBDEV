@@ -24,30 +24,6 @@ This directory contains the frontend of the application, responsible for the use
 - Forms the backbone of all web pages
 - Works with **CSS** (for styling) and **JavaScript** (for interactivity)
 
-### 🧱 Basic Structure Tags
-```
-<!DOCTYPE html>   <!-- Defines document type -->
-<html>            <!-- Root of HTML document -->
-<head>            <!-- Metadata container -->
-<title>Title</title> <!-- Page title -->
-<body>            <!-- Document body -->
-```
-## 📄 Text Formatting Tags
-```
-<h1> to <h6>     <!-- Headings (h1 is largest) -->
-<p>              <!-- Paragraph -->
-<b> / <strong>   <!-- Bold text -->
-<i> / <em>       <!-- Italic text -->
-<u>              <!-- Underlined text -->
-<br>             <!-- Line break -->
-<hr>             <!-- Horizontal rule -->
-```
-## 📋 List Tags
-```
-<ul> <li>Item</li> </ul>     <!-- Unordered list -->
-<ol> <li>Item</li> </ol>     <!-- Ordered list -->
-<dl> <dt>Term</dt> <dd>Definition</dd> </dl> <!-- Definition list -->
-```
 ## What is CSS?
 
 **CSS (Cascading Style Sheets)** is a stylesheet language used to describe the presentation and layout of HTML elements on a webpage. It controls the look and feel, including colors, fonts, spacing, and positioning.
