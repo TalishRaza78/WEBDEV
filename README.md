@@ -13,7 +13,7 @@ This directory contains the frontend of the application, responsible for the use
 - **React** – JavaScript library for building UI components
 - **Axios** – For making HTTP requests
 - **Webpack / Vite** – Module bundler and development server
-- **Redux / Context API** – State management (if applicable)
+- **Redux / Context API** – State management 
 - ## What is HTML?
 
 **HTML (HyperText Markup Language)** is the standard language used to create and structure content on the web. It defines the layout and organization of text, images, links, and other elements using tags.
