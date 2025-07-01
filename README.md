@@ -29,7 +29,7 @@ This directory contains the frontend of the application, responsible for the use
 
 ### Key Features:
 - Styles the structure created by HTML
-- Uses selectors to apply styles to elements (e.g., classes, IDs, tags)
+- Uses selectors to apply styles to elements
 - Enables responsive and visually appealing designs
 - Works alongside **HTML** and **JavaScript** to build web page
 
