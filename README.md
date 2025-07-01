@@ -11,7 +11,6 @@ This directory contains the frontend of the application, responsible for the use
 - **CSS3 / SCSS** – Styling and layout
 - **JavaScript (ES6+)** – Client-side scripting
 - **React** – JavaScript library for building UI components
-- **Axios** – For making HTTP requests
 - **Webpack / Vite** – Module bundler and development server
 - **Redux / Context API** – State management 
 - ## What is HTML?
