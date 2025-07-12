@@ -5,7 +5,7 @@
 
 This directory contains the frontend of the application, responsible for the user interface and user experience. It is built using modern web technologies and communicates with the backend via API calls
 
-## Technologies Used
+## Technologies Used :
 
 - **HTML5** – Structure of the web pages
 - **CSS3 / SCSS** – Styling and layout
