@@ -23,7 +23,7 @@ This directory contains the frontend of the application, responsible for the use
 - Forms the backbone of all web pages
 - Works with **CSS** (for styling) and **JavaScript** (for interactivity)
 
-## What is CSS
+## What is CSS ?
 
 **CSS (Cascading Style Sheets)** is a stylesheet language used to describe the presentation and layout of HTML elements on a webpage. It controls the look and feel, including colors, fonts, spacing, and positioning.
 
